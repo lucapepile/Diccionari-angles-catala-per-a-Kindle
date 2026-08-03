@@ -11,4 +11,4 @@ Finalment, he creat tots els fitxers necessaris per poder exportar el diccionari
 
 Cal tindre el compte que els meus coneixements de programació són pràcticament nuls. Tot el codi ha estat escrit mitjançant IA. La meua feina, a base d'assaig error, ha consistit en ajustar-lo simplificant i ajustant al màxim les peticions al programador.
 
-**Pots descarregar el _Diccionari anglès-català.mobi_ des [d'aquesta pàgina](https://diccionarianglescatalakindle.wordpress.com/)** o també de la carpeta **resultats**.
+**Pots descarregar el _Diccionari anglès-català.mobi_ des [d'aquesta pàgina](https://diccionaricatalacastellakindle.wordpress.com/)** o també de la carpeta **resultats**.
